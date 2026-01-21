@@ -1,4 +1,4 @@
-# ClojureScript, figwheel-main and reagent simple demo
+# ARCHNIVED: ClojureScript, figwheel-main and reagent simple demo
 
 Project created with the [figwheel-main](https://github.com/bhauman/figwheel-main-template) template using Clojure CLI tools
 
